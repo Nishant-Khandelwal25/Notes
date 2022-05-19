@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title</string>
+    <string name="write_here">Write here...</string>
+    <string name="save_note">Save Note</string>
+    <string name="edit">edit</string>
+    <string name="delete">Delete</string>
+    <string name="_8942">⋮</string>
+    <string name="tab_space">\t\t|\t\t</string>
+</resources>
